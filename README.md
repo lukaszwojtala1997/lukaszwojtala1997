@@ -7,6 +7,7 @@ A passionate testing/programmer from Poland. I'm currently learning Rest Assured
 - &nbsp; ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat)
   &nbsp; ![Selenium](https://img.shields.io/badge/-Selenium-0A1A2F?style=flat)
   &nbsp; ![RestAssured](https://img.shields.io/badge/-RestAssured-0A1A2F?style=flat)
+- &nbsp; ![Maven](https://img.shields.io/badge/-Maven-0A1A2F?style=flat)
   &nbsp; ![Cucumber](https://img.shields.io/badge/-Cucumber-0A1A2F?style=flat)
  - &nbsp; ![Jira](https://img.shields.io/badge/-Jira-0A1A2F?style=flat)
  &nbsp; ![TestRail](https://img.shields.io/badge/-TestRail-0A1A2F?style=flat)
@@ -17,6 +18,7 @@ A passionate testing/programmer from Poland. I'm currently learning Rest Assured
 - &nbsp; ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat)
   &nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat)
   &nbsp; ![Jenkins](https://img.shields.io/badge/-Jenkins-0A1A2F?style=flat)
+  &nbsp; ![Linux](https://img.shields.io/badge/-Linux-0A1A2F?style=flat)
 - &nbsp; ![DevTools](https://img.shields.io/badge/-DevTools-0A1A2F?style=flat)
 ### Connect with me
 
